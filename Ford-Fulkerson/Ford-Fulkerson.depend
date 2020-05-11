@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589320829 source:c:\users\nikola\desktop\ford-fulkerson\ford-fulkerson\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<stack>
+	<algorithm>
+	<vector>
+
